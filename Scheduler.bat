@@ -1,0 +1,1 @@
+C:\Users\DELL\AppData\Local\Programs\Python\Python38\python.exe "D:\MFiles\FYP\webApp\newsScraper.py"
